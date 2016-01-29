@@ -1,0 +1,4 @@
+import = get(fileOne.txt)
+if (import = 5) {
+	It wrocks!!!
+}
